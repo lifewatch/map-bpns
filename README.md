@@ -6,7 +6,8 @@ Includes the LifeWatch sampling stations, bathymetry from [EMODnet](https://emod
 
 ## Get Started 🚀
 
-* Open the `ebr-2022-data-combine.Rproj` file with RStudio
+* Clone this repository
+* Open the `map-bpns.Rproj` file with [RStudio](https://posit.co/)
 * Open the script at `./R/map-bpns.R`
 * Use [renv](https://rstudio.github.io/renv/index.html) to get the packages needed for this project.
 
