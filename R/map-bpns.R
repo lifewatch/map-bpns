@@ -22,7 +22,7 @@ stations <- data.frame(
 
 # Set coastal towns
 towns <- data.frame(
-  label = c("Vlissingen", "Zebrugge", "Oostende", "Nieuwpoort", "Duinkirk"),
+  label = c("Vlissingen", "Zeebrugge", "Oostende", "Nieuwpoort", "Duinkerke"),
   latitude = c(51.4557, 51.33185, 51.21404, 51.12418, 51.02077),
   longitude = c(3.5765, 3.20845, 2.92196, 2.76443, 2.38018)
 ) %>% sf::st_as_sf(
